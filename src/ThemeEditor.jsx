@@ -160,7 +160,7 @@ const DEFAULT_THEMES = [
       "focusBorder": "#dc143c",
     },
     tokenColors: {
-      comment: "#4a1525",
+      comment: "#8b4a5e",
       string: "#cd5c5c",
       keyword: "#dc143c",
       function: "#e04040",
